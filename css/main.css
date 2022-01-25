@@ -235,7 +235,9 @@ body {
 .z-index-1 {
   z-index: 1;
 }
-
+.mobile-view {
+  display: none;
+}
 @media screen and (max-width: 1920px), screen and (max-height: 1080px) {
   #shop_online_txt {
     font-size: 87px;
