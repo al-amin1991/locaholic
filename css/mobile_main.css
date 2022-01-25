@@ -4,10 +4,129 @@
   .mobile-view {
     display: block;
   }
-  #img_logo {
+  /* #img_logo {
     display: none;
-  }
+  } */
   #img_logo_mobile {
+    position: absolute;
     background-image: url('https://al-amin1991.github.io/locaholic/img/locaholic_logo_mobile.png');
+    height: 300px;
+    width: 400px;
+  }
+  #img_logo {
+    width: 168px;
+    height: 33px;
+    left: 22px;
+    top: 44px;
+  }
+  #humburger {
+    width: 48px;
+    height: 48px;
+    right: 19px;
+    top: 37px;
+  }
+  #shop_online_txt {
+    font-size: 24px;
+    line-height: 23px;
+  }
+
+  #div_jumbotron {
+    margin-top: 14vh;
+  }
+  #shop_online_div {
+    margin-left: 24px;
+    margin-top: 3px;
+  }
+  #div_jumbotron {
+    height: 28vh;
+    margin-top: 12vh;
+    /* background-size: 99vw, 95vw, 98vw; */
+  }
+  #div_locaholic_nav {
+    height: 0px;
+  }
+  #how_locaholic_works_txt {
+    font-size: 32px;
+    line-height: 93%;
+  }
+  .step-1txt {
+    margin-left: -87px;
+  }
+  #step-1-img {
+    width: 236px;
+    height: 111px;
+    margin-left: -20vw;
+  }
+  #how_locaholic_works_div {
+    height: 17vh;
+  }
+  .how-image-txt {
+    height: 75px;
+    font-size: 12px;
+    line-height: 14px;
+  }
+  #step-2-img {
+    margin-left: 6vw;
+    width: 157px;
+    height: 112px;
+  }
+  #step-2-txt-div,
+  #step-3-txt-div {
+    height: 75px;
+    margin-top: -1px;
+  }
+
+  #step-3-img {
+    width: 171px;
+    height: 111px;
+    margin-left: 5vw;
+    margin-top: 1vh;
+  }
+  #step-3txt {
+    margin-left: 28px;
+  }
+  #step-4-img {
+    width: 236px;
+    height: 111px;
+    margin-left: 13vw;
+    margin-top: 6px;
+  }
+  .step-2txt {
+    margin-left: -11px;
+  }
+  #step-4-txt {
+    margin-left: 60px;
+    width: 127px;
+  }
+  #footer {
+    font-size: 11px;
+    line-height: 13px;
+  }
+  #download-the-locaholic {
+    height: 168px;
+    background-size: 182px;
+  }
+  #download-the-locaholic-app-txt {
+    font-size: 24px;
+    line-height: 103.5%;
+  }
+  #download-the-locaholic-app {
+    margin-left: 26px;
+    margin-top: 32px;
+  }
+  .img_download {
+    height: 17px;
+  }
+  #brand-logo {
+    margin-left: 21px;
+    margin-top: -228px;
+  }
+  #available-on-txt {
+    font-size: 12px;
+    line-height: 21px;
+  }
+  #available-on-div {
+    margin-top: -244px;
+    margin-left: 77px;
   }
 }
