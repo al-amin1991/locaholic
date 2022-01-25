@@ -129,4 +129,29 @@
     margin-top: -244px;
     margin-left: 77px;
   }
+  #circle-close {
+    width: 42px;
+    height: 42px;
+  }
+  #locaholic-icon {
+    margin-left: 21px;
+    margin-top: 36px;
+    height: 46px;
+    width: 46px;
+  }
+  #locaholi-online-from-txt {
+    margin-top: 45px;
+    margin-left: 19px;
+
+    font-size: 17px;
+  }
+  #download-locaholic-now {
+    margin-left: 72px;
+    padding: 12px 37px;
+    font-size: 15px;
+    margin-top: 2.5vh;
+  }
+  #modal {
+    height: 168px;
+  }
 }
