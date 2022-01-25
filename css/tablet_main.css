@@ -22,8 +22,9 @@
     height: 432px;
     margin-top: 135px;
     background-color: white;
-    background-image: url('img/third_part_bg_tablet.png'),
-      url('img/second_part_bg_tablet.png'), url('img/first_part_bg_tablet.png');
+    background-image: url('https://al-amin1991.github.io/locaholic/img/third_part_bg_tablet.png'),
+      url('https://al-amin1991.github.io/locaholic/img/second_part_bg_tablet.png'),
+      url('https://al-amin1991.github.io/locaholic/img/first_part_bg_tablet.png');
     background-position: left bottom, right bottom, right top;
     background-repeat: no-repeat, no-repeat, no-repeat;
   }
@@ -193,8 +194,9 @@
   }
   #div_jumbotron {
     /* height: 77vh; */
-    background-image: url('img/third_part_bg_tablet.png'),
-      url('img/second_part_bg_tablet.png'), url('img/first_part_bg_tablet.png');
+    background-image: url('https://al-amin1991.github.io/locaholic/img/third_part_bg_tablet.png'),
+      url('https://al-amin1991.github.io/locaholic/img/second_part_bg_tablet.png'),
+      url('https://al-amin1991.github.io/locaholic/img/first_part_bg_tablet.png');
     background-position: left bottom, right bottom, right top;
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-size: 99vw, 49vw, 107vw;

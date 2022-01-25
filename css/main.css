@@ -49,8 +49,9 @@ body {
 #div_jumbotron {
   height: 1080px;
   background-color: white;
-  background-image: url('img/third_part_bg.png'), url('img/second_part_bg.png'),
-    url('img/first_part_bg.png');
+  background-image: url('https://al-amin1991.github.io/locaholic/img/third_part_bg.png'),
+    url('https://al-amin1991.github.io/locaholic/img/second_part_bg.png'),
+    url('https://al-amin1991.github.io/locaholic/img/first_part_bg.png');
   background-position: left bottom, right bottom, right top;
   background-repeat: no-repeat, no-repeat, no-repeat;
 }
@@ -151,7 +152,7 @@ body {
 }
 #download-the-locaholic {
   height: 916px;
-  background-image: url('img/door_to_door.png');
+  background-image: url('https://al-amin1991.github.io/locaholic/img/door_to_door.png');
   background-position: bottom right;
   background-repeat: no-repeat;
 }
