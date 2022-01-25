@@ -1,0 +1,555 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;700;800;900&display=swap');
+
+body {
+  overflow-x: hidden;
+  background-color: white;
+}
+.main-container {
+  background-color: #ffff;
+  font-family: 'Montserrat';
+  font-weight: 200;
+}
+
+#shop_online_txt {
+  font-family: Sriracha;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 94px;
+  line-height: 78px;
+  /* or 84% */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #f8af08;
+}
+#shop_online_div {
+  margin-left: 84px;
+  margin-top: 361px; /* 236px; */
+  height: 236px;
+}
+
+#div_locaholic_nav {
+  position: absolute;
+  width: 100%;
+  height: 175px;
+  left: 0px;
+  top: 0px;
+  background: #ffffffcc;
+}
+
+#img_logo {
+  position: absolute;
+  width: 345px;
+  height: 89px;
+  left: 84px;
+  top: 43px;
+}
+
+#div_jumbotron {
+  height: 1080px;
+  background-color: white;
+  background-image: url('/img/third_part_bg.png'),
+    url('/img/second_part_bg.png'), url('/img/first_part_bg.png');
+  background-position: left bottom, right bottom, right top;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+}
+#btn-download {
+  margin-top: -25px;
+  margin-right: 63px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 42px;
+  border: none;
+  padding: 7px 39px;
+
+  background-color: #5ac608;
+  color: #ffffff;
+
+  border-radius: 26px 26px 26px 26px;
+  -moz-border-radius: 26px 26px 26px 26px;
+  -webkit-border-radius: 26px 26px 26px 26px;
+  border: 0px solid #000000;
+}
+
+#how_to_use_txt {
+  margin-right: 101px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 42px;
+  color: #5ac608;
+}
+
+.mt-61 {
+  margin-top: 61px;
+}
+#how_locaholic_works_txt {
+  font-family: Sriracha;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 130px;
+  line-height: 230px;
+  text-transform: uppercase;
+
+  color: #f8af08;
+
+  margin-top: 179px;
+  margin-bottom: 168px;
+}
+.primary-color {
+  color: #84d447;
+}
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.four-images {
+  padding: 0px 114px;
+}
+.padding-0 {
+  padding-right: 0;
+  padding-left: 0;
+  margin: 0px;
+}
+.pl-114 {
+  padding-left: 114px;
+}
+.pr-114 {
+  padding-right: 114px;
+}
+.pr-51 {
+  padding-right: 51px;
+}
+.step-2 {
+  margin-left: 60px;
+}
+.step-1txt {
+  margin-left: 35px;
+}
+.step-2txt {
+  margin-left: 62px;
+}
+.how-image-txt {
+  height: 215px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  background-color: #84d447;
+}
+.center-div {
+  margin: auto;
+  width: 99.9%;
+}
+#download-the-locaholic {
+  height: 916px;
+  background-image: url('/img/door_to_door.png');
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
+
+#download-the-locaholic-app {
+  margin-left: 133px;
+  margin-top: 145px;
+  height: 342px;
+}
+#download-the-locaholic-app-txt {
+  font-family: Sriracha;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 110px;
+  line-height: 103.5%;
+  /* or 114px */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #f8af08;
+}
+#brand-logo {
+  margin-left: 132px;
+}
+
+#available-on-div {
+  margin-top: 90px;
+  margin-left: 383px;
+  height: 113px;
+}
+#available-on-txt {
+  font-family: Sriracha;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 113px;
+  text-align: center;
+  text-transform: capitalize;
+
+  color: #83d246;
+}
+#footer {
+  height: 165px;
+  color: white;
+  background-color: #84d447;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 40px;
+  text-align: center;
+  text-transform: capitalize;
+}
+#footer a {
+  color: #ffff;
+}
+.all_rights_reserved {
+  padding-top: 47px;
+}
+
+.tablet-br {
+  display: none;
+}
+#humburger {
+  display: none;
+}
+.tablet {
+  display: none;
+}
+
+#step-1-img,
+#step-2-img,
+#step-3-img,
+#step-4-img {
+  margin-bottom: -23px;
+}
+
+.z-index-1 {
+  z-index: 1;
+}
+@media screen and (max-width: 1920px), screen and (max-height: 1080px) {
+  #shop_online_txt {
+    font-size: 87px;
+  }
+}
+@media screen and (max-width: 1680px) and (max-height: 1050px) {
+  #shop_online_txt {
+    font-size: 77px;
+  }
+  #download-the-locaholic {
+    background-size: 10vh;
+  }
+  #download-the-locaholic {
+    background-size: 94vh;
+  }
+  #div_jumbotron {
+    height: 100vh;
+    background-size: 99vw, 45vw, 99vw;
+  }
+  #shop_online_div {
+    margin-top: 306px;
+  }
+  #download-the-locaholic-app-txt {
+    font-size: 94px;
+  }
+  #download-the-locaholic-app {
+    margin-top: 205px;
+  }
+  #available-on-div {
+    margin-left: 288px;
+  }
+  .img_download {
+    height: 71px;
+  }
+  #step-1-img,
+  #step-4-img {
+    margin-left: 2vw;
+  }
+  .step-2txt {
+    margin-left: 99px;
+  }
+  #step-4-img {
+    margin-left: 3vw;
+  }
+}
+@media screen and (max-width: 1600px) and (max-height: 1024px) {
+  #shop_online_txt {
+    font-size: 4.5vw;
+  }
+}
+@media screen and (max-width: 1440px) and (max-height: 1080px) {
+  #shop_online_txt {
+    font-size: 55px;
+    line-height: 61px;
+  }
+  #shop_online_div {
+    margin-left: 8vw;
+    margin-top: 36vh;
+    height: 236px;
+  }
+  #div_jumbotron {
+    height: 101vh;
+
+    background-size: 99vw, 49vw, 107vw;
+  }
+
+  #how_to_use_txt {
+    margin-right: 35px;
+    font-size: 16px;
+  }
+  #btn-download {
+    margin-top: -3px;
+    font-size: 16px;
+    padding: 7px 39px;
+  }
+
+  #img_logo {
+    width: 243px;
+    height: 56px;
+  }
+  #download-the-locaholic {
+    background-size: 48vw;
+    height: 89vh;
+  }
+  #download-the-locaholic-app {
+    margin-left: 133px;
+    margin-top: 145px;
+    height: 342px;
+  }
+  #download-the-locaholic-app-txt {
+    font-size: 58px;
+    line-height: 103.5%;
+  }
+  #available-on-div {
+    margin-top: -113px;
+    margin-left: 259px;
+  }
+  .img_download {
+    height: 50px;
+  }
+  #available-on-txt {
+    font-size: 38px;
+  }
+  #brand-logo {
+    margin-top: -30px;
+  }
+  .how-image-txt {
+    font-size: 24px;
+  }
+  #how_locaholic_works_txt {
+    font-size: 86px;
+  }
+  .how-image-txt {
+    height: 150px;
+  }
+  #step-1-img {
+    width: 344px;
+    height: 255px;
+  }
+  #step-2-img {
+    width: 306px;
+  }
+  #step-3-img {
+    width: 306px;
+  }
+  #step-4-img {
+    width: 421px;
+  }
+  #step-2-txt-div {
+    margin-left: 15px;
+  }
+}
+
+/* @media screen and (max-width: 1400px) and (max-height: 1050px) {
+  #div_jumbotron {
+    height: 100vh;
+    background-size: 99vw, 51vw, 99vw;
+  }
+} */
+@media screen and (max-width: 1400px) and (max-height: 1050px) {
+  #div_jumbotron {
+    height: 100vh;
+    background-size: 99vw, 46vw, 99vw;
+  }
+  #step-2-txt-div,
+  #step-3-txt-div {
+    margin-top: -1px;
+    height: 150px;
+  }
+  #download-the-locaholic-app-txt {
+    font-size: 74px;
+  }
+
+  #available-on-div {
+    margin-top: -58px;
+    margin-left: 272px;
+  }
+  #brand-logo {
+    margin-left: 149px;
+  }
+  #download-the-locaholic-app {
+    margin-top: 277px;
+  }
+}
+@media screen and (max-width: 1440px) and (max-height: 900px) {
+  #div_jumbotron {
+    height: 107vh;
+    background-size: 99vw, 49vw, 99vw;
+  }
+  #div_locaholic_nav {
+    height: 15vh;
+  }
+  .mt-61 {
+    margin-top: 37px;
+  }
+  #img_logo {
+    top: 21px;
+  }
+  #how_locaholic_works_txt {
+    margin-top: 89px;
+  }
+  #how_locaholic_works_div {
+    height: 52vh;
+  }
+  #download-the-locaholic-app {
+    margin-left: 133px;
+    margin-top: 125px;
+  }
+  #available-on-div {
+    margin-top: -74px;
+    margin-left: 274px;
+  }
+  #brand-logo {
+    margin-left: 144px;
+  }
+  #download-the-locaholic-app-txt {
+    font-size: 71px;
+  }
+  #step-2-txt-div,
+  #step-3-txt-div {
+    margin-top: -1px;
+  }
+  #step-1-img {
+    margin-left: 21px;
+  }
+  #step-2-img {
+    margin-left: 69px;
+  }
+  #step-3-img {
+    margin-left: 29px;
+  }
+}
+@media (max-width: 1280px) and (max-height: 1024px) {
+  #download-the-locaholic {
+    height: 70vh;
+  }
+  #download-the-locaholic-app {
+    height: 322px;
+  }
+  #div_jumbotron {
+    height: 79vh;
+    background-size: 99vw, 45vw, 99vw;
+  }
+
+  #div_locaholic_nav {
+    height: 14vh;
+  }
+  .mt-61 {
+    margin-top: 27px;
+  }
+  #img_logo {
+    top: 15px;
+  }
+  #shop_online_div {
+    margin-top: 22vh;
+  }
+  #how_locaholic_works_div {
+    height: 42vh;
+  }
+  #how_locaholic_works_txt {
+    margin-top: 10px;
+  }
+}
+@media (max-width: 1280px) and (max-height: 960px) {
+  #div_jumbotron {
+    height: 85vh;
+  }
+}
+@media (max-width: 1280px) and (max-height: 800px) {
+  #div_jumbotron {
+    height: 100vh;
+  }
+  #download-the-locaholic {
+    height: 90vh;
+  }
+  #download-the-locaholic-app {
+    margin-top: 92px;
+  }
+}
+
+@media (max-width: 1280px) and (max-height: 768px) {
+  #div_jumbotron {
+    height: 107vh;
+  }
+}
+@media (max-width: 1280px) and (max-height: 720px) {
+  #div_jumbotron {
+    height: 107vh;
+    background-size: 99vw, 42vw, 99vw;
+  }
+}
+@media (max-width: 1240px) and (max-height: 594px) {
+  #step-2-txt-div {
+    margin-left: 10px;
+  }
+}
+@media (max-width: 1220px) and (max-height: 1920px) {
+  #div_jumbotron {
+    height: 38vh;
+  }
+  #shop_online_div {
+    margin-top: 13vh;
+  }
+  #download-the-locaholic {
+    height: 30vh;
+  }
+  #how_locaholic_works_div {
+    height: 40vh;
+  }
+  #how_locaholic_works_div {
+    height: 23vh;
+  }
+  .how-image-txt {
+    font-size: 23px;
+  }
+}
+@media (max-width: 1152px) and (max-height: 864px) {
+  #shop_online_div {
+    margin-top: 34vh;
+  }
+  #div_jumbotron {
+    height: 100vh;
+    background-size: 99vw, 46vw, 99vw;
+  }
+  #shop_online_txt {
+    font-size: 49px;
+    line-height: 61px;
+  }
+
+  .z-index-1 {
+    z-index: 1;
+  }
+}
+@media (max-width: 1024px) and (max-height: 768px) {
+  #div_jumbotron {
+    height: 78vh;
+    background-size: 99vw, 42vw, 99vw;
+  }
+}
