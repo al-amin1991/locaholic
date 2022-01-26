@@ -238,6 +238,17 @@ body {
 .mobile-view {
   display: none;
 }
+
+a:hover {
+  text-decoration: none;
+}
+
+/* 
+********* Start *********
+
+
+
+*/
 @media screen and (max-width: 1920px), screen and (max-height: 1080px) {
   #shop_online_txt {
     font-size: 87px;
