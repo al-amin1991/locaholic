@@ -1,5 +1,362 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;700;800;900&display=swap');
 
+@media (max-width: 425px) and (max-height: 760px) {
+  .mobile-view {
+    display: block;
+  }
+  /* #img_logo {
+    display: none;
+  } */
+  #img_logo_mobile {
+    position: absolute;
+    background-image: url('https://al-amin1991.github.io/locaholic/img/locaholic_logo_mobile.png');
+    height: 300px;
+    width: 400px;
+  }
+  #img_logo {
+    width: 168px;
+    height: 33px;
+    left: 22px;
+    top: 26px;
+  }
+
+  #shop_online_txt {
+    font-size: 24px;
+    line-height: 23px;
+  }
+
+  #div_jumbotron {
+    margin-top: 14vh;
+  }
+  #shop_online_div {
+    margin-left: 24px;
+    margin-top: 36px;
+  }
+  #div_jumbotron {
+    height: 28vh;
+    margin-top: 12vh;
+    /* background-size: 99vw, 95vw, 98vw; */
+  }
+  #div_locaholic_nav {
+    height: 0px;
+  }
+  #how_locaholic_works_txt {
+    font-size: 32px;
+    line-height: 93%;
+  }
+  .step-1txt {
+    margin-left: -87px;
+  }
+  #step-1-img {
+    width: 236px;
+    height: 111px;
+    margin-left: -13vw;
+  }
+  #how_locaholic_works_div {
+    height: 17vh;
+  }
+  .how-image-txt {
+    height: 75px;
+    font-size: 12px;
+    line-height: 14px;
+  }
+  #step-2-img {
+    margin-left: 9vw;
+    width: 157px;
+    height: 112px;
+  }
+  #step-2-txt-div,
+  #step-3-txt-div {
+    height: 75px;
+    margin-top: -1px;
+  }
+
+  #step-3-img {
+    width: 171px;
+    height: 111px;
+    margin-left: 9vw;
+    margin-top: 1vh;
+  }
+  #step-3txt {
+    margin-left: 28px;
+  }
+  #step-4-img {
+    width: 236px;
+    height: 111px;
+    margin-left: 13vw;
+    margin-top: 6px;
+  }
+  .step-2txt {
+    margin-left: -11px;
+  }
+  #step-4-txt {
+    margin-left: 60px;
+    width: 127px;
+  }
+  #footer {
+    font-size: 11px;
+    line-height: 13px;
+  }
+  #download-the-locaholic {
+    height: 168px;
+    background-size: 182px;
+  }
+  #download-the-locaholic-app-txt {
+    font-size: 24px;
+    line-height: 103.5%;
+  }
+  #download-the-locaholic-app {
+    margin-left: 26px;
+    margin-top: 32px;
+  }
+  .img_download {
+    height: 17px;
+  }
+  #brand-logo {
+    margin-left: 21px;
+    margin-top: -228px;
+  }
+  #available-on-txt {
+    font-size: 12px;
+    line-height: 21px;
+  }
+  #available-on-div {
+    margin-top: -244px;
+    margin-left: 77px;
+  }
+  #circle-close {
+    width: 42px;
+    height: 42px;
+  }
+  #locaholic-icon {
+    margin-left: 21px;
+    margin-top: 36px;
+    height: 46px;
+    width: 46px;
+  }
+  #locaholi-online-from-txt {
+    margin-top: 45px;
+    margin-left: 19px;
+
+    font-size: 17px;
+  }
+  #download-locaholic-now {
+    margin-left: 72px;
+    padding: 12px 37px;
+    font-size: 15px;
+    margin-top: 2.5vh;
+  }
+  #modal {
+    height: 168px;
+  }
+  #img_logo {
+    width: 128px;
+    height: 41px;
+  }
+  #humburger {
+    width: 55px;
+    height: 55px;
+    right: 21px;
+    top: 39px;
+  }
+  #shop_online_div {
+    margin-left: 43px;
+    margin-top: 41px;
+  }
+  #div_jumbotron {
+    height: 30vh;
+    background-size: 100vw, 95vw, 98vw;
+  }
+  #shop_online_txt {
+    font-size: 23px;
+    line-height: 24px;
+  }
+  #humburger {
+    width: 48px;
+    height: 48px;
+    right: 19px;
+    top: 21px;
+  }
+}
+
+@media (max-width: 375px) and (max-height: 760px) {
+  .mobile-view {
+    display: block;
+  }
+  /* #img_logo {
+    display: none;
+  } */
+  #img_logo_mobile {
+    position: absolute;
+    background-image: url('https://al-amin1991.github.io/locaholic/img/locaholic_logo_mobile.png');
+    height: 300px;
+    width: 400px;
+  }
+  #img_logo {
+    width: 168px;
+    height: 33px;
+    left: 22px;
+    top: 26px;
+  }
+
+  #shop_online_txt {
+    font-size: 24px;
+    line-height: 23px;
+  }
+
+  #div_jumbotron {
+    margin-top: 14vh;
+  }
+  #shop_online_div {
+    margin-left: 24px;
+    margin-top: 36px;
+  }
+  #div_jumbotron {
+    height: 28vh;
+    margin-top: 12vh;
+    /* background-size: 99vw, 95vw, 98vw; */
+  }
+  #div_locaholic_nav {
+    height: 0px;
+  }
+  #how_locaholic_works_txt {
+    font-size: 32px;
+    line-height: 93%;
+  }
+  .step-1txt {
+    margin-left: -87px;
+  }
+  #step-1-img {
+    width: 236px;
+    height: 111px;
+    margin-left: -18vw;
+  }
+  #how_locaholic_works_div {
+    height: 17vh;
+  }
+  .how-image-txt {
+    height: 75px;
+    font-size: 12px;
+    line-height: 14px;
+  }
+  #step-2-img {
+    margin-left: 7vw;
+    width: 157px;
+    height: 112px;
+  }
+  #step-2-txt-div,
+  #step-3-txt-div {
+    height: 75px;
+    margin-top: -1px;
+  }
+
+  #step-3-img {
+    width: 171px;
+    height: 111px;
+    margin-left: 6vw;
+    margin-top: 1vh;
+  }
+  #step-3txt {
+    margin-left: 28px;
+  }
+  #step-4-img {
+    width: 236px;
+    height: 111px;
+    margin-left: 13vw;
+    margin-top: 6px;
+  }
+  .step-2txt {
+    margin-left: -11px;
+  }
+  #step-4-txt {
+    margin-left: 60px;
+    width: 127px;
+  }
+  #footer {
+    font-size: 11px;
+    line-height: 13px;
+  }
+  #download-the-locaholic {
+    height: 168px;
+    background-size: 182px;
+  }
+  #download-the-locaholic-app-txt {
+    font-size: 24px;
+    line-height: 103.5%;
+  }
+  #download-the-locaholic-app {
+    margin-left: 26px;
+    margin-top: 32px;
+  }
+  .img_download {
+    height: 17px;
+  }
+  #brand-logo {
+    margin-left: 21px;
+    margin-top: -228px;
+  }
+  #available-on-txt {
+    font-size: 12px;
+    line-height: 21px;
+  }
+  #available-on-div {
+    margin-top: -244px;
+    margin-left: 77px;
+  }
+  #circle-close {
+    width: 42px;
+    height: 42px;
+  }
+  #locaholic-icon {
+    margin-left: 21px;
+    margin-top: 36px;
+    height: 46px;
+    width: 46px;
+  }
+  #locaholi-online-from-txt {
+    margin-top: 45px;
+    margin-left: 19px;
+
+    font-size: 17px;
+  }
+  #download-locaholic-now {
+    margin-left: 72px;
+    padding: 12px 37px;
+    font-size: 15px;
+    margin-top: 2.5vh;
+  }
+  #modal {
+    height: 168px;
+  }
+  #img_logo {
+    width: 128px;
+    height: 41px;
+  }
+  #humburger {
+    width: 55px;
+    height: 55px;
+    right: 21px;
+    top: 39px;
+  }
+  #shop_online_div {
+    margin-left: 31px;
+    margin-top: 41px;
+  }
+  #div_jumbotron {
+    height: 30vh;
+    background-size: 100vw, 95vw, 98vw;
+  }
+  #shop_online_txt {
+    font-size: 23px;
+    line-height: 24px;
+  }
+  #humburger {
+    width: 48px;
+    height: 48px;
+    right: 19px;
+    top: 21px;
+  }
+}
 @media (max-width: 360px) and (max-height: 760px) {
   .mobile-view {
     display: block;
