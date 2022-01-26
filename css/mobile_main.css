@@ -155,3 +155,72 @@
     height: 168px;
   }
 }
+
+@media (max-width: 320px) and (max-height: 760px) {
+  #shop_online_txt {
+    font-size: 20px;
+    line-height: 21px;
+  }
+  #step-1-img {
+    width: 214px;
+    height: 94px;
+    margin-left: -20vw;
+  }
+  .how-image-txt {
+    font-size: 9px;
+    height: 58px;
+  }
+  #step-1-img,
+  #step-2-img,
+  #step-3-img,
+  #step-4-img {
+    margin-bottom: -7px;
+  }
+  #step-2-img {
+    margin-left: 6vw;
+    width: 127px;
+    height: 94px;
+  }
+
+  .step-2txt {
+    margin-left: -26px;
+  }
+  #step-3-img {
+    width: 127px;
+    height: 94px;
+    margin-left: 12vw;
+  }
+  #step-4-img {
+    width: 214px;
+    height: 94px;
+    margin-left: 13vw;
+    margin-top: 7px;
+  }
+  #step-4-txt {
+    margin-left: 44px;
+  }
+  #step-2-txt-div,
+  #step-3-txt-div {
+    height: 58px;
+    margin-top: 0px;
+  }
+  #download-the-locaholic {
+    height: 168px;
+    background-size: 160px;
+  }
+  #download-the-locaholic-app {
+    margin-top: 38px;
+  }
+  #available-on-div {
+    margin-left: 61px;
+  }
+  .img_download {
+    height: 14px;
+  }
+  #download-the-locaholic-app-txt {
+    font-size: 20px;
+  }
+  #step-1-img {
+    margin-left: -22vw;
+  }
+}
