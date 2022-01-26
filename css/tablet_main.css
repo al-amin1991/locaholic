@@ -305,3 +305,21 @@
     margin-top: -5px;
   }
 }
+@media (max-width: 768px) and (max-height: 760px) {
+  #div_jumbotron {
+    height: 64vh;
+    background-size: 99vw, 101vw, 98vw;
+  }
+  #how_locaholic_works_div {
+    height: 26vh;
+  }
+  .step-2txt {
+    margin-left: -9px;
+  }
+  #step-4-img {
+    margin-top: -6px;
+  }
+  #available-on-div {
+    margin-left: 142px;
+  }
+}
