@@ -429,6 +429,9 @@ a:hover {
   #how_locaholic_works_txt {
     font-size: 86px;
   }
+  #footer {
+    height: 10vw;
+  }
 }
 
 @media screen and (max-width: 1400px) and (max-height: 1050px) {
@@ -497,6 +500,9 @@ a:hover {
   #download-the-locaholic {
     background-size: 47vw;
     height: 76vh;
+  }
+  #footer {
+    height: 10vw;
   }
 }
 @media screen and (max-width: 1366px) and (max-height: 768px) {

@@ -509,6 +509,22 @@
   .main-extra-div {
     display: none;
   }
+  #download-the-locaholic-app-txt {
+    font-size: 239%;
+  }
+  #download-the-locaholic-app {
+    margin-left: 5vh;
+    margin-top: 6vh;
+  }
+  #available-on-txt {
+    font-size: 126%;
+  }
+  #available-on-div {
+    margin-left: 17vw;
+  }
+  #brand-logo {
+    margin-left: 5vw;
+  }
 }
 @media (max-width: 768px) and (max-height: 1000px) {
   #step-3-col,
@@ -655,9 +671,9 @@
     margin-top: 66px;
   }
   #available-on-div {
-    margin-top: -202px;
+    margin-top: 14vh;
   }
   #brand-logo {
-    margin-top: -168px;
+    margin-top: -7.5vh;
   }
 }
