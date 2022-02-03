@@ -284,6 +284,40 @@ a:hover {
   #available-on-div {
     margin-left: 326px;
   }
+
+  #how_to_use_txt {
+    font-size: 30px;
+  }
+  #btn-download {
+    font-size: 30px;
+  }
+  #div_locaholic_nav {
+    height: 155px;
+  }
+  #how_locaholic_works_txt {
+    font-size: 100px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+  }
+  #download-the-locaholic-app-txt {
+    font-size: 100px;
+  }
+  #download-the-locaholic-app {
+    margin-left: 200px;
+    margin-top: 110px;
+  }
+  #download-the-locaholic {
+    height: 850px;
+  }
+  #available-on-txt {
+    font-size: 50px;
+  }
+
+  #available-on-div {
+    margin-top: 58px;
+    margin-left: 383px;
+    height: 113px;
+  }
 }
 @media screen and (max-width: 1680px) and (max-height: 1050px) {
   #shop_online_txt {
