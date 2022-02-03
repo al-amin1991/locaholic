@@ -274,7 +274,7 @@ a:hover {
 
 
 */
-@media screen and (max-width: 1920px), screen and (max-height: 1080px) {
+@media screen and (max-width: 1920px) and (max-height: 1080px) {
   #shop_online_txt {
     font-size: 87px;
   }
