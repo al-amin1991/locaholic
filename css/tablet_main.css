@@ -613,16 +613,17 @@
   }
 
   #download-the-locaholic-app {
+    height: 0px;
     margin-top: 80px;
     margin-left: 62px;
   }
   #available-on-div {
-    margin-top: -215px;
+    margin-top: 12vh;
     margin-left: 122px;
   }
   #brand-logo {
     margin-left: 55px;
-    margin-top: -178px;
+    margin-top: -6.5vh;
   }
   .how-image-txt {
     height: 10vh;

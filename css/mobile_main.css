@@ -48,12 +48,12 @@
     font-size: 25px;
   }
   #available-on-div {
-    margin-top: -235px;
+    margin-top: 11vh;
     margin-left: 79px;
   }
   #brand-logo {
     margin-left: 31px;
-    margin-top: -205px;
+    margin-top: -10.3vh;
   }
   .img_download {
     height: 19px;
@@ -81,6 +81,9 @@
     height: 57px;
     font-size: 38%;
     line-height: 2vh;
+  }
+  #download-the-locaholic-app {
+    height: 0px;
   }
 }
 @media (max-width: 428px) and (max-height: 926px) {
@@ -129,7 +132,7 @@
   }
 
   #how_locaholic_works_div {
-    height: 13vh;
+    height: 18vh;
   }
   .how-image-txt {
     height: 75px;
@@ -142,27 +145,28 @@
     background-size: 182px;
   }
   #download-the-locaholic-app-txt {
-    font-size: 24px;
+    font-size: 113%;
     line-height: 103.5%;
   }
   #download-the-locaholic-app {
-    margin-left: 26px;
+    margin-left: 11vw;
     margin-top: 32px;
+    height: 0px;
   }
   .img_download {
     height: 17px;
   }
   #brand-logo {
     margin-left: 21px;
-    margin-top: -228px;
+    margin-top: -10.5vh;
   }
   #available-on-txt {
     font-size: 12px;
     line-height: 21px;
   }
   #available-on-div {
-    margin-top: -244px;
     margin-left: 77px;
+    margin-top: 9vh;
   }
   #circle-close {
     width: 42px;
@@ -353,8 +357,7 @@
     top: 21px;
   }
 }
-@media (max-width: 414px) and (max-height: 736px) {
-}
+
 @media (max-width: 414px) and (max-height: 736px) {
   #shop_online_txt {
     font-size: 21px;
@@ -380,6 +383,12 @@
     margin-left: 34px;
     margin-top: 46px;
   }
+  #available-on-div {
+    margin-top: 12vh;
+  }
+  #brand-logo {
+    margin-top: -13vh;
+  }
 }
 @media (max-width: 412px) and (max-height: 869px) {
   #div_jumbotron {
@@ -399,14 +408,19 @@
     font-size: 20px;
   }
   #download-the-locaholic-app {
+    height: 0px;
     margin-left: 32px;
     margin-top: 45px;
   }
   #available-on-div {
+    margin-top: 10vh;
     margin-left: 67px;
   }
   .img_download {
     height: 15px;
+  }
+  #brand-logo {
+    margin-top: -11.8vh;
   }
 }
 @media (max-width: 412px) and (max-height: 847px) {
@@ -420,6 +434,12 @@
   }
   #how_locaholic_works_div {
     height: 21vh;
+  }
+  #available-on-div {
+    margin-top: 12vh;
+  }
+  #brand-logo {
+    margin-top: -13.7vh;
   }
 }
 @media (max-width: 375px) and (max-height: 812px) {
@@ -443,17 +463,24 @@
     height: 176px;
   }
   #download-the-locaholic-app-txt {
-    font-size: 21px;
+    font-size: 92%;
   }
   #download-the-locaholic-app {
     margin-left: 32px;
     margin-top: 37px;
   }
   .img_download {
-    height: 15px;
+    height: 12px;
   }
   #brand-logo {
-    margin-left: 29px;
+    margin-left: 5vw;
+  }
+  #available-on-txt {
+    font-size: 51%;
+  }
+  #available-on-div {
+    margin-top: 10vh;
+    margin-left: 17vw;
   }
 }
 
@@ -528,7 +555,7 @@
   }
   #brand-logo {
     margin-left: 21px;
-    margin-top: -228px;
+    margin-top: -100px;
   }
   #available-on-txt {
     font-size: 12px;
@@ -623,6 +650,9 @@
   .img_download {
     height: 15px;
   }
+  #available-on-div {
+    margin-top: 76px;
+  }
 }
 @media (max-width: 360px) and (max-height: 760px) {
   .mobile-view {
@@ -700,14 +730,15 @@
   }
   #brand-logo {
     margin-left: 21px;
-    margin-top: -228px;
+    margin-top: 1.7vh;
   }
   #available-on-txt {
     font-size: 12px;
     line-height: 21px;
   }
   #available-on-div {
-    margin-top: -244px;
+    height: 0px;
+    margin-top: 11vh;
     margin-left: 77px;
   }
   #circle-close {
@@ -825,12 +856,14 @@
   #download-the-locaholic-app {
     margin-left: 26px;
     margin-top: 38px;
+    height: 0px;
   }
   #available-on-txt {
     font-size: 10px;
   }
   #available-on-div {
-    margin-top: -252px;
+    height: 0px;
+    margin-top: 12vh;
     margin-left: 60px;
   }
   .img_download {
@@ -838,7 +871,7 @@
   }
   #brand-logo {
     margin-left: 19px;
-    margin-top: -241px;
+    margin-top: 2vh;
   }
 }
 @media (max-width: 320px) and (max-height: 760px) {
@@ -868,9 +901,7 @@
   #download-the-locaholic-app-txt {
     font-size: 20px;
   }
-  #step-1-img {
-    margin-left: -22vw;
-  }
+
   #img_logo {
     width: 92px;
     height: 26px;
@@ -970,17 +1001,11 @@
   #available-on-txt {
     font-size: 10px;
   }
-  #available-on-div {
-    margin-left: 58px;
-    margin-top: -252px;
-  }
 
   .img_download {
     height: 12px;
   }
-  #brand-logo {
-    margin-top: -241px;
-  }
+
   #humburger {
     top: 8px;
   }
@@ -1010,7 +1035,8 @@
   }
   #available-on-div {
     margin-left: 52px;
-    margin-top: -265px;
+    height: 0px;
+    margin-top: 19vw;
   }
   .img_download {
     height: 11px;
@@ -1018,6 +1044,6 @@
 
   #brand-logo {
     margin-left: 20px;
-    margin-top: -252px;
+    margin-top: 3vw;
   }
 }
