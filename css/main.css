@@ -29,6 +29,37 @@ body {
   height: 236px;
 }
 
+.about-locaholic {
+  font-weight: 400;
+  color: #f8af08;
+  font-size: 250%;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 78px;
+  /* or 157% */
+
+  text-transform: uppercase;
+}
+.about-locaholic-p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 140%;
+  line-height: 26px;
+
+  color: #000000;
+}
+.first-paragraph-about {
+  margin-top: 6vh;
+}
+#about-locaholic-div {
+  margin-left: 13vw;
+  margin-top: 28vh;
+  height: 236px;
+  width: 46%;
+}
+
 #div_locaholic_nav {
   position: absolute;
   width: 100%;
@@ -55,6 +86,16 @@ body {
   background-position: left bottom, right bottom, right top;
   background-repeat: no-repeat, no-repeat, no-repeat;
 }
+
+#div-jumbotron-about {
+  height: 100vh;
+  background-color: white;
+  background-image: url('https://al-amin1991.github.io/locaholic/img/about_banner.png');
+  background-size: 100vw 100vh;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+}
+
 #btn-download {
   margin-top: -25px;
   margin-right: 63px;
@@ -353,6 +394,9 @@ a:hover {
   #shop_online_txt {
     font-size: 4.5vw;
   }
+  #div-jumbotron-about {
+    height: 107vh;
+    background-size: 100vw 107vh;
 }
 @media screen and (max-width: 1536px) and (max-height: 2048px) {
   #div_jumbotron {
@@ -538,10 +582,18 @@ a:hover {
   #footer {
     height: 10vw;
   }
+  #div-jumbotron-about {
+    height: 130vh;
+    background-size: 100vw 130vh;
+  }
 }
 @media screen and (max-width: 1366px) and (max-height: 768px) {
   #div_jumbotron {
     background-size: 99vw, 45vw, 99vw;
+  }
+  #div-jumbotron-about {
+    height: 159vh;
+    background-size: 100vw 159vh;
   }
 }
 @media screen and (max-width: 1360px) and (max-height: 768px) {
@@ -629,6 +681,10 @@ a:hover {
     height: 107vh;
     background-size: 99vw, 42vw, 99vw;
   }
+  #div-jumbotron-about {
+    height: 169vh;
+    background-size: 100vw 169vh;
+  }
 }
 @media screen and (max-width: 1240px) and (max-height: 594px) {
 }
@@ -676,5 +732,9 @@ a:hover {
   #div_jumbotron {
     height: 78vh;
     background-size: 99vw, 42vw, 99vw;
+  }
+  #div-jumbotron-about {
+    height: 182vh;
+    background-size: 100vw 169vh;
   }
 }

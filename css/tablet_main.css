@@ -467,6 +467,10 @@
   #how_locaholic_works_div {
     height: 31vh;
   }
+  #div-jumbotron-about {
+    height: 295vh;
+    background-size: 100vw 265vh;
+  }
 }
 
 @media (max-width: 768px) and (max-height: 1024px) {
