@@ -70,6 +70,7 @@ body {
 }
 
 #img_logo {
+  z-index: 9;
   position: absolute;
   width: 345px;
   height: 89px;
@@ -90,7 +91,7 @@ body {
 #div-jumbotron-about {
   height: 100vh;
   background-color: white;
-  background-image: url('https://al-amin1991.github.io/locaholic/img/about_banner.png');
+  background-image: url('/img/about_banner.png');
   background-size: 100vw 100vh;
   background-position: left bottom;
   background-repeat: no-repeat;
@@ -102,7 +103,7 @@ body {
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
-  font-size: 42px;
+  font-size: 1.819vw;
   border: none;
   padding: 7px 39px;
 
@@ -120,7 +121,7 @@ body {
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
-  font-size: 42px;
+  font-size: 1.819vw;
   color: #5ac608;
 }
 
@@ -327,10 +328,10 @@ a:hover {
   }
 
   #how_to_use_txt {
-    font-size: 30px;
+    font-size: 1.819vw;
   }
   #btn-download {
-    font-size: 30px;
+    font-size: 1.819vw;
   }
   #div_locaholic_nav {
     height: 155px;
@@ -465,11 +466,11 @@ a:hover {
 
   #how_to_use_txt {
     margin-right: 35px;
-    font-size: 16px;
+    font-size: 1.819vw;
   }
   #btn-download {
     margin-top: -3px;
-    font-size: 16px;
+    font-size: 1.819vw;
     padding: 7px 39px;
   }
 
