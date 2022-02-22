@@ -91,7 +91,7 @@ body {
 #div-jumbotron-about {
   height: 100vh;
   background-color: white;
-  background-image: url('/img/about_banner.png');
+  background-image: url('https://al-amin1991.github.io/locaholic/img/about_banner.png');
   background-size: 100vw 100vh;
   background-position: left bottom;
   background-repeat: no-repeat;
