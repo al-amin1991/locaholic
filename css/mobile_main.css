@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;700;800;900&display=swap');
 @media (max-width: 480px) and (max-height: 853px) {
-  
- 
   #div_jumbotron {
     background-size: 99vw, 94vw 35vh, 97vw;
   }
@@ -36,73 +34,73 @@
     line-height: 19px;
   }
 
-    #how_locaholic_works_txt {
-      font-size: 47px;
-    }
+  #how_locaholic_works_txt {
+    font-size: 47px;
+  }
 
-    #download-the-locaholic {
-      height: 28vh;
-    }
-    #download-the-locaholic-app {
-      margin-left: 36px;
-    }
-    #download-the-locaholic-app-txt {
-      font-size: 25px;
-    }
-    #available-on-div {
-      margin-top: 11vh;
-      margin-left: 79px;
-    }
-    #brand-logo {
-      margin-left: 31px;
-      margin-top: -10.3vh;
-    }
-    .img_download {
-      height: 19px;
-    }
-    #locaholic-icon {
-      width: 46px;
-    }
-    #locaholi-online-from-txt {
-      margin-top: 65px;
-      margin-left: 27px;
-      font-size: 21px;
-    }
-    #download-locaholic-now {
-      margin-top: 3vh;
-      font-size: 15px;
-      margin-left: 19vw;
-    }
-    #available-on-txt {
-      font-size: 16px;
-    }
-    #footer {
-      height: 57px;
-      font-size: 38%;
-      line-height: 2vh;
-    }
-    #download-the-locaholic-app {
-      height: 0px;
-    }
-    #div-jumbotron-about {
-      height: 78vh;
-      background-size: 100vw 113vh;
-    }
-    .about-locaholic {
-      font-size: 223%;
-    }
-    .about-locaholic-p {
-     font-size: 90%;
-    }
-    #about-locaholic-div {
-      width: 69%;
-    }
-    .tablet-nav {
-      font-size: 75%;
-    }
-    #modal {
-      height: 10vh;
-    }
+  #download-the-locaholic {
+    height: 28vh;
+  }
+  #download-the-locaholic-app {
+    margin-left: 36px;
+  }
+  #download-the-locaholic-app-txt {
+    font-size: 25px;
+  }
+  #available-on-div {
+    margin-top: 11vh;
+    margin-left: 79px;
+  }
+  #brand-logo {
+    margin-left: 31px;
+    margin-top: -10.3vh;
+  }
+  .img_download {
+    height: 19px;
+  }
+  #locaholic-icon {
+    width: 46px;
+  }
+  #locaholi-online-from-txt {
+    margin-top: 65px;
+    margin-left: 27px;
+    font-size: 21px;
+  }
+  #download-locaholic-now {
+    margin-top: 3vh;
+    font-size: 15px;
+    margin-left: 19vw;
+  }
+  #available-on-txt {
+    font-size: 16px;
+  }
+  #footer {
+    height: 57px;
+    font-size: 38%;
+    line-height: 2vh;
+  }
+  #download-the-locaholic-app {
+    height: 0px;
+  }
+  #div-jumbotron-about {
+    height: 78vh;
+    background-size: 100vw 113vh;
+  }
+  .about-locaholic {
+    font-size: 223%;
+  }
+  .about-locaholic-p {
+    font-size: 90%;
+  }
+  #about-locaholic-div {
+    width: 69%;
+  }
+  .tablet-nav {
+    font-size: 75%;
+  }
+  #modal {
+    height: 10vh;
+  }
 }
 @media (max-width: 428px) and (max-height: 926px) {
   .mobile-view {
@@ -399,11 +397,11 @@
     top: 21px;
   }
   #div-jumbotron-about {
-    height: 77vh;
+    height: 81vh;
   }
   .about-locaholic-p {
     font-size: 84%;
-}
+  }
 }
 
 @media (max-width: 414px) and (max-height: 736px) {
@@ -438,7 +436,7 @@
     margin-top: -13vh;
   }
   #div-jumbotron-about {
-    height: 77vh;
+    height: 84vh;
   }
 }
 @media (max-width: 412px) and (max-height: 869px) {
@@ -479,11 +477,13 @@
   }
 }
 @media (max-width: 412px) and (max-height: 847px) {
+  #div-jumbotron-about {
+    height: 85vh;
+  }
 }
 @media (max-width: 412px) and (max-height: 824px) {
   #div-jumbotron-about {
-    height: 78vh;
-    background-size: 100vw 116vh;
+    height: 88vh;
   }
 }
 @media (max-width: 412px) and (max-height: 732px) {
@@ -501,8 +501,7 @@
     margin-top: -13.7vh;
   }
   #div-jumbotron-about {
-    height: 78vh;
-    background-size: 100vw 132vh;
+    height: 89vh;
   }
 }
 @media (max-width: 375px) and (max-height: 812px) {
@@ -549,12 +548,11 @@
     font-size: 122%;
   }
   #div-jumbotron-about {
-    height: 78vh;
-    background-size: 100vw 130vh;
+    height: 85vh;
   }
   .about-locaholic-p {
     font-size: 87%;
-}
+  }
 }
 
 @media (max-width: 375px) and (max-height: 760px) {
@@ -693,9 +691,9 @@
   }
   .about-locaholic-p {
     font-size: 80%;
-}
+  }
   #div-jumbotron-about {
-    height: 77vh;
+    height: 82vh;
   }
 }
 
@@ -733,11 +731,11 @@
     margin-top: 76px;
   }
   #div-jumbotron-about {
-    height: 75vh;
+    height: 81vh;
   }
   .about-locaholic-p {
     font-size: 73%;
-}
+  }
 }
 @media (max-width: 360px) and (max-height: 760px) {
   .mobile-view {
@@ -852,7 +850,7 @@
     height: 10vh;
   }
   #div-jumbotron-about {
-    height: 76.5vh;
+    height: 81.5vh;
   }
   .about-locaholic {
     font-size: 117%;
@@ -905,6 +903,9 @@
   }
   .img_download {
     height: 14px;
+  }
+  #div-jumbotron-about {
+    height: 83.5vh;
   }
 }
 @media (max-width: 360px) and (max-height: 640px) {
@@ -965,14 +966,13 @@
     margin-top: 2vh;
   }
   #div-jumbotron-about {
-    height: 75.1vh;
+    height: 80.1vh;
   }
   .about-locaholic-p {
     font-size: 70%;
-}
+  }
 }
 @media (max-width: 320px) and (max-height: 760px) {
- 
   #shop_online_txt {
     font-size: 20px;
     line-height: 21px;
@@ -1157,7 +1157,7 @@
     margin-top: 3vw;
   }
   #div-jumbotron-about {
-    height: 73.9vh;
+    height: 81.9vh;
   }
   .about-locaholic-p {
     font-size: 65%;

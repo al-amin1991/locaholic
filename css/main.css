@@ -47,15 +47,17 @@ body {
   font-weight: 600;
   font-size: 140%;
   line-height: 26px;
-
+  text-align: justify;
   color: #000000;
+  text-indent: 3vw;
+  margin-top: 5vh;
 }
 .first-paragraph-about {
-  margin-top: 6vh;
+  margin-top: 4vh;
 }
 #about-locaholic-div {
   margin-left: 13vw;
-  margin-top: 28vh;
+  margin-top: 22vh;
   height: 236px;
   width: 46%;
 }
