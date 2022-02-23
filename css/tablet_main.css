@@ -526,15 +526,25 @@
   #how_locaholic_works_div {
     height: 31vh;
   }
-  #div-jumbotron-about {
-    height: 295vh;
-    background-size: 100vw 265vh;
-  }
+  
   #div-jumbotron-about {
     height: 219vh;
 }
 }
-
+@media screen and (max-width: 800px) and (max-height: 374) {
+ 
+  #about-locaholic-div {
+    margin-top: 45vh;
+}
+#div-jumbotron-about {
+  height: 324vh;
+}
+#footer {
+  height: 14vh;
+  font-size: 62.5%;
+  line-height: 4vh;
+}
+}
 @media (max-width: 768px) and (max-height: 1024px) {
   #step-1-img {
     width: 23vw;
